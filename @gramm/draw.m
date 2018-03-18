@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 function obj=draw(obj,do_redraw)
 % draw Draws the plot in the current figure
 %
